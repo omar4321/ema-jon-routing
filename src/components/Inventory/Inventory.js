@@ -3,7 +3,7 @@ import React, { memo } from 'react';
 const Inventory = memo(() => {
     return (
         <div>
-           this is Inventory 
+          <h1>Developer is sleeping</h1>
         </div>
     );
 });
